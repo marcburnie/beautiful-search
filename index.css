@@ -1,0 +1,41 @@
+/* div#viewport.ctr-p {
+  background-image: url('https://i.ytimg.com/vi/ypG3yBxgDEs/maxresdefault.jpg');
+  background-repeat: no-repeat;
+}
+div.gb_xe.gb_R.gb_Me.gb_Ee {
+  font-weight: bold;
+  font-size: 15px;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
+
+.color {
+  background-color: rgba(255, 255, 255, 0.612);
+  padding: 10px;
+  line-height: 2;
+  border: 5px solid rgba(255, 255, 255, 0.372);
+  border-radius: 0px 36px 0px 36px;
+}
+
+#quote {
+  font-family: 'Dosis', sans-serif;
+  font-size: 25px;
+  margin: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#viewport {
+  /* background: url('https://i.ytimg.com/vi/gD4uACwPChA/maxresdefault.jpg')
+    no-repeat center center fixed; */
+  background-size: cover;
+}
+
+.szppmdbYutt__middle-slot-promo {
+  margin: 0px 700px 0px 700px;
+  background-color: rgba(255, 255, 255, 0.434);
+  border: 5px none rgba(255, 255, 255, 0.55);
+  border-radius: 6px;
+}
