@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Hackaway",
+  "name": "Daily Inspiration",
   "version": "1.0",
-  "description": "Future extension thingy",
+  "description": "Scenic pictures and inspirational quotes to brighten your day!",
   "content_scripts": [
     {
       "matches": ["https://www.google.com/*"],
