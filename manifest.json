@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Search Inspiration",
   "version": "1.0",
-  "description": "Brighten your day with scenic photo backgrounds and inspirational quotes for your Google search page.",
+  "description": "Prettifies your Google search page with beautiful background photos and inspirational quotes.",
   "content_scripts": [
     {
       "matches": ["https://www.google.com/*"],
