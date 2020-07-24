@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Search Inspiration",
+  "name": "Beautiful Search",
   "version": "1.0",
   "description": "Prettifies your Google search page with beautiful background photos and inspirational quotes.",
   "content_scripts": [
